@@ -1,0 +1,7 @@
+**/target
+**/**/target
+**/**/**/target
+**/logs
+**/.idea
+relink.iml
+.DS_Store
